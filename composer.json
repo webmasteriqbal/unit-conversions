@@ -1,16 +1,16 @@
 {
-    "name": ":vendor_name/:package_name",
-    "description": ":package_description",
+    "name": "webmasteriqbal/unit-conversions",
+    "description": "perform unit conversions",
     "keywords": [
-        ":vendor_name",
-        ":package_name"
+        "webmasteriqbal",
+        "unit-conversions"
     ],
-    "homepage": "https://github.com/:vendor_name/:package_name",
+    "homepage": "https://github.com/webmasteriqbal/unit-conversions",
     "license": "MIT",
     "authors": [
         {
-            "name": ":author_name",
-            "email": ":author_email",
+            "name": "IQBAL HASAN",
+            "email": "webmasteriqbal0@gmail.com",
             "role": "Developer"
         }
     ],
@@ -25,12 +25,12 @@
     },
     "autoload": {
         "psr-4": {
-            "Spatie\\Skeleton\\": "src"
+            "Webmasteriqbal\\UnitConversions\\": "src"
         }
     },
     "autoload-dev": {
         "psr-4": {
-            "Spatie\\Skeleton\\Tests\\": "tests"
+            "Webmasteriqbal\\UnitConversions\\Tests\\": "tests"
         }
     },
     "scripts": {

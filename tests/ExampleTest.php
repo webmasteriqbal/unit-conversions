@@ -1,6 +1,6 @@
 <?php
 
-namespace Spatie\Skeleton\Tests;
+namespace Webmasteriqbal\UnitConversions\Tests;
 
 use PHPUnit\Framework\TestCase;
 
