@@ -12,6 +12,7 @@ class WightTest extends TestCase
     {
         $this->assertTrue(true);
     }
+
     /** @test */
     public function it_can_convert_kilograms_to_lbs()
     {
